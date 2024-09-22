@@ -26,5 +26,6 @@ public class ClassExercise21 {
         int num = myScanner.nextInt();
         AA f = new AA();
         System.out.println(f.factorial(num));
+        System.out.println("=====猴子吃桃=====");
     }
 }
