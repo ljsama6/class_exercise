@@ -1,6 +1,6 @@
 package class_exercise;
 
-//可变参数应用
+//可变参数应用.
 class HspMethod {
     public String showScore(String name, int... score) {
         int res = 0;
